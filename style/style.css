@@ -57,6 +57,10 @@ table {
   border-spacing: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .fal, .fas {
   font-family: FontAwesome;
 }
