@@ -1,1 +1,1 @@
-# lmsEdu.github.io
+# educational layout
